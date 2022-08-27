@@ -2,6 +2,6 @@
 
 This is just a demo!
 
-## SUbheader
+## Subheader
 
 Watch tutorial on Youtube.
